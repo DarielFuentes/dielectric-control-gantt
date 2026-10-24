@@ -141,7 +141,7 @@
           "inicio": "2026-09-14",
           "fin": "2026-09-25",
           "equipo": "GL",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         },
         {
@@ -149,7 +149,7 @@
           "inicio": "2026-09-14",
           "fin": "2026-10-02",
           "equipo": "GS",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         },
         {
@@ -157,7 +157,7 @@
           "inicio": "2026-09-21",
           "fin": "2026-10-02",
           "equipo": "EL",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         },
         {
@@ -165,7 +165,7 @@
           "inicio": "2026-09-21",
           "fin": "2026-10-02",
           "equipo": "NS",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         }
       ]
@@ -183,7 +183,7 @@
           "inicio": "2026-09-21",
           "fin": "2026-10-02",
           "equipo": "DENGLS",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         },
         {
@@ -191,7 +191,7 @@
           "inicio": "2026-09-28",
           "fin": "2026-10-02",
           "equipo": "DENGLS",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         },
         {
@@ -199,7 +199,7 @@
           "inicio": "2026-09-28",
           "fin": "2026-10-09",
           "equipo": "DG",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         },
         {
@@ -207,7 +207,7 @@
           "inicio": "2026-10-05",
           "fin": "2026-10-09",
           "equipo": "DN",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         }
       ]
@@ -225,7 +225,7 @@
           "inicio": "2026-10-05",
           "fin": "2026-10-09",
           "equipo": "DN",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         },
         {
@@ -233,7 +233,7 @@
           "inicio": "2026-10-05",
           "fin": "2026-10-16",
           "equipo": "DG",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         },
         {
@@ -241,7 +241,7 @@
           "inicio": "2026-10-05",
           "fin": "2026-10-16",
           "equipo": "DE",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         },
         {
@@ -249,7 +249,7 @@
           "inicio": "2026-10-12",
           "fin": "2026-10-16",
           "equipo": "NS",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         }
       ]
@@ -267,7 +267,7 @@
           "inicio": "2026-10-12",
           "fin": "2026-10-23",
           "equipo": "GE",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         },
         {
@@ -275,7 +275,7 @@
           "inicio": "2026-10-12",
           "fin": "2026-10-30",
           "equipo": "GL",
-          "avance": 0,
+          "avance": 75,
           "urgente": false
         },
         {
@@ -309,7 +309,7 @@
           "inicio": "2026-10-12",
           "fin": "2026-10-23",
           "equipo": "ED",
-          "avance": 0,
+          "avance": 75,
           "urgente": false
         },
         {
@@ -317,7 +317,7 @@
           "inicio": "2026-10-19",
           "fin": "2026-10-30",
           "equipo": "E",
-          "avance": 0,
+          "avance": 25,
           "urgente": false
         },
         {
@@ -351,7 +351,7 @@
           "inicio": "2026-10-19",
           "fin": "2026-10-30",
           "equipo": "D",
-          "avance": 0,
+          "avance": 75,
           "urgente": false
         },
         {
@@ -359,7 +359,7 @@
           "inicio": "2026-10-26",
           "fin": "2026-11-06",
           "equipo": "DE",
-          "avance": 0,
+          "avance": 50,
           "urgente": false
         },
         {
@@ -393,7 +393,7 @@
           "inicio": "2026-10-19",
           "fin": "2026-10-30",
           "equipo": "NG",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         },
         {
@@ -401,7 +401,7 @@
           "inicio": "2026-10-26",
           "fin": "2026-11-13",
           "equipo": "N",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         },
         {
@@ -477,7 +477,7 @@
           "inicio": "2026-10-05",
           "fin": "2026-10-23",
           "equipo": "DN",
-          "avance": 0,
+          "avance": 100,
           "urgente": false
         },
         {
@@ -485,7 +485,7 @@
           "inicio": "2026-10-26",
           "fin": "2026-11-06",
           "equipo": "NS",
-          "avance": 0,
+          "avance": 50,
           "urgente": false
         },
         {
